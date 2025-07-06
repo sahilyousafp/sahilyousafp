@@ -1,5 +1,4 @@
 # Hi there!!!
-![Graph_Black](https://github.com/user-attachments/assets/ddfdf394-0769-4ea4-85e6-79965081474e)
 
 # Architect Turned AI Developer
 
