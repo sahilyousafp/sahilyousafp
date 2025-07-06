@@ -1,6 +1,18 @@
-## Hi there 👋
+## Hi there
 
-**sahilyousafp/sahilyousafp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Being an Architect turned AI Developer, 
+I am indulged in solving problems by using the most advanced technologies and research. Over the year, I have explored 
+
+1. python scripting 
+2. HTML manipulation
+3. Training Neural Networks
+4. inferencing Large Language Models
+5. UI/UX Development and Research
+
+During the pask 6 months, 
+I have been working with a team to develop a structural prediction and genereation tool for architects in the early phase of design. 
+
+My interests lay in bridging 
 
 Here are some ideas to get you started:
 
