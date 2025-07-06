@@ -1,5 +1,5 @@
 ## Hi there!!!
-![Graph_Black](https://github.com/user-attachments/assets/4a8ac350-4e76-4c9a-a3cf-53fca5ef8685)
+![Graph_Black](https://github.com/user-attachments/assets/ddfdf394-0769-4ea4-85e6-79965081474e)
 
 Being an Architect turned AI Developer, 
 I am indulged in solving problems and making technology more accessible. Over the year, I have explored 
@@ -18,4 +18,4 @@ My interests lay in bridging the knowledge gap between the world of technology a
 Here are some of the key projects that define my knowledge base and Experiences: 
 
 1. [Building Analysis Tool (B.A.T)](https://github.com/sahilyousafp/Building_Analysis_Tool.git)
-2. [Grounded. Structural Solutions](https://github.com/sahilyousafp/Grounded.-Structural-Solutions.git)
+3. [Grounded. Structural Solutions](https://github.com/sahilyousafp/Grounded.-Structural-Solutions.git)
