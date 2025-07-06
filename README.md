@@ -1,4 +1,5 @@
 ## Hi there!!!
+![Graph_Black](https://github.com/user-attachments/assets/4a8ac350-4e76-4c9a-a3cf-53fca5ef8685)
 
 Being an Architect turned AI Developer, 
 I am indulged in solving problems and making technology more accessible. Over the year, I have explored 
