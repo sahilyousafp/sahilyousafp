@@ -16,5 +16,5 @@ My interests lay in bridging the knowledge gap between the world of technology a
 
 Here are some of the key projects that define my knowledge base and Experiences: 
 
-1. [https://github.com/sahilyousafp/Building_Analysis_Tool.git](Building Analysis Tool (B.A.T))
-2. [https://github.com/sahilyousafp/Grounded.-Structural-Solutions.git](Grounded. Structural Solutions)
+1. [Building Analysis Tool (B.A.T)](https://github.com/sahilyousafp/Building_Analysis_Tool.git)
+2. [Grounded. Structural Solutions](https://github.com/sahilyousafp/Grounded.-Structural-Solutions.git)
