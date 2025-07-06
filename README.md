@@ -1,7 +1,7 @@
 ## Hi there!!!
 
 Being an Architect turned AI Developer, 
-I am indulged in solving problems by using the most advanced technologies and research. Over the year, I have explored 
+I am indulged in solving problems and making technology more accessible. Over the year, I have explored 
 
 1. python scripting 
 2. HTML manipulation
