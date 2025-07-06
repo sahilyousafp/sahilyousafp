@@ -1,21 +1,39 @@
-## Hi there!!!
+# Hi there!!!
 ![Graph_Black](https://github.com/user-attachments/assets/ddfdf394-0769-4ea4-85e6-79965081474e)
 
-Being an Architect turned AI Developer, 
-I am indulged in solving problems and making technology more accessible. Over the year, I have explored 
+# Architect Turned AI Developer
 
-1. python scripting 
-2. HTML manipulation
-3. Training Neural Networks
-4. inferencing Large Language Models
-5. UI/UX Development and Research
+As an **Architect turned AI Developer**, my journey has been driven by a deep curiosity to solve real-world problems and make technology more human and accessible. Over the past year, I’ve transitioned from designing buildings to designing intelligent systems — and the parallels are more powerful than they seem.
 
-During the pask 6 months, 
-I have been working with a team to develop a structural prediction and genereation tool for architects in the early phase of design. 
+## What I Do
 
-My interests lay in bridging the knowledge gap between the world of technology and the AEC. With the advancement of technology and AI, the world is interracting with machines in a completely different way. The current and future advents of natural language interraction with machines are a pinnacle in bringing back the core aspects of a profession, things that make us who we are. Creativity, reasoning and emotional intelligence are what sets us apart for the machines.
+From scripting small automations to deploying AI-driven systems, I’ve explored a range of technologies and disciplines that now define my toolkit:
 
-Here are some of the key projects that define my knowledge base and Experiences: 
+- Python scripting for automation and data manipulation  
+- HTML/CSS/JS for UI building and web automation  
+- Training and fine-tuning Neural Networks  
+- Inferencing with Large Language Models (LLMs)  
+- UI/UX design with a research-led approach  
 
-1. [Building Analysis Tool (B.A.T)](https://github.com/sahilyousafp/Building_Analysis_Tool.git)
-3. [Grounded. Structural Solutions](https://github.com/sahilyousafp/Grounded.-Structural-Solutions.git)
+## What I'm Building
+
+For the past 6 months, I've been working with an interdisciplinary team to create a **structural prediction and generation tool** tailored for architects in the **early conceptual stages of design**. The goal is to empower architects with real-time, AI-assisted decision-making capabilities—bridging intuition with structural insight.
+
+## Why I Care
+
+My passion lies in bridging the knowledge gap between architecture, engineering, construction (AEC), and modern AI technologies. As machines become better at understanding and responding to us through **natural language**, we are reclaiming something essential:  
+**Creativity, reasoning, and emotional intelligence**—the very human qualities that define a profession and a purpose.
+
+## Projects That Define My Journey
+
+Here are a few projects that reflect my vision and capabilities:
+
+1. [**Building Analysis Tool (B.A.T)**](https://github.com/sahilyousafp/Building_Analysis_Tool.git)  
+   An interactive system that enables designers and policy makers to plan spaces taking the navigation of the visually impaired into consideration.
+
+2. [**Grounded. Structural Solutions**](https://github.com/sahilyousafp/Grounded.-Structural-Solutions.git)  
+   A smart system that predicts and proposes structural frameworks from early architectural geometries using AI-based analysis and simulation.
+
+## Let’s Connect
+
+I’m always open to collaborations that bring together design thinking and technical rigor. Whether you’re in AEC or AI — or both — let’s build something intelligent, creative, and impactful together.
