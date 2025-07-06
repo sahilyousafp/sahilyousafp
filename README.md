@@ -3,7 +3,7 @@
 
 # Architect Turned AI Developer
 
-As an **Architect turned AI Developer**, my journey has been driven by a deep curiosity to solve real-world problems and make technology more human and accessible. Over the past year, I’ve transitioned from designing buildings to designing intelligent systems — and the parallels are more powerful than they seem.
+As an **Architect turned AI Developer**, my journey has been driven by a deep curiosity to solve real-world problems and make technology more human and accessible. Over the past year, Ive transitioned from designing buildings to designing intelligent systems — and the parallels are more powerful than they seem.
 
 ## What I Do
 
@@ -22,7 +22,7 @@ For the past 6 months, I've been working with an interdisciplinary team to creat
 ## Why I Care
 
 My passion lies in bridging the knowledge gap between architecture, engineering, construction (AEC), and modern AI technologies. As machines become better at understanding and responding to us through **natural language**, we are reclaiming something essential:  
-**Creativity, reasoning, and emotional intelligence**—the very human qualities that define a profession and a purpose.
+**Creativity, reasoning, and emotional intelligence** the very human qualities that define a profession and a purpose.
 
 ## Projects That Define My Journey
 
@@ -34,6 +34,6 @@ Here are a few projects that reflect my vision and capabilities:
 2. [**Grounded. Structural Solutions**](https://github.com/sahilyousafp/Grounded.-Structural-Solutions.git)  
    A smart system that predicts and proposes structural frameworks from early architectural geometries using AI-based analysis and simulation.
 
-## Let’s Connect
+## Lets Connect
 
-I’m always open to collaborations that bring together design thinking and technical rigor. Whether you’re in AEC or AI — or both — let’s build something intelligent, creative, and impactful together.
+Im always open to collaborations that bring together design thinking and technical rigor. Whether youre in AEC or AI — or both — lets build something intelligent, creative, and impactful together.
