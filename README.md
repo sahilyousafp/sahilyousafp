@@ -37,4 +37,4 @@ Here are a few projects that reflect my vision and capabilities:
 
 ## Lets Connect
 
-Im always open to collaborations that bring together design thinking and technical rigor. Whether youre in AEC or AI — or both — lets build something intelligent, creative, and impactful together.
+Im always open to collaborations that bring together design thinking and technical rigor. Whether youre in AEC or AI or both lets build something intelligent, creative, and impactful together.
