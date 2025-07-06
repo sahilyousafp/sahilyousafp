@@ -1,6 +1,5 @@
 # Hi there!!!
-
-# Architect Turned AI Developer
+## Architect Turned AI Developer
 
 As an **Architect turned AI Developer**, my journey has been driven by a deep curiosity to solve real-world problems and make technology more human and accessible. Over the past year, Ive transitioned from designing buildings to designing intelligent systems — and the parallels are more powerful than they seem.
 
