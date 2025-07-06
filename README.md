@@ -1,11 +1,11 @@
 # Hi there!!!
 ## Architect Turned AI Developer
 
-As an **Architect turned AI Developer**, my journey has been driven by a deep curiosity to solve real-world problems and make technology more human and accessible. Over the past year, Ive transitioned from designing buildings to designing intelligent systems — and the parallels are more powerful than they seem.
+As an **Architect turned AI Developer**, my journey has been driven by a deep curiosity to solve real-world problems and make technology more human and accessible. Over the past year, Ive transitioned from designing buildings to designing intelligent systems and the parallels are more powerful than they seem.
 
 ## What I Do
 
-From scripting small automations to deploying AI-driven systems, I’ve explored a range of technologies and disciplines that now define my toolkit:
+From scripting small automations to deploying AI-driven systems, Ive explored a range of technologies and disciplines that now define my toolkit:
 
 - Python scripting for automation and data manipulation  
 - HTML/CSS/JS for UI building and web automation  
@@ -15,7 +15,7 @@ From scripting small automations to deploying AI-driven systems, I’ve explored
 
 ## What I'm Building
 
-For the past 6 months, I've been working with an interdisciplinary team to create a **structural prediction and generation tool** tailored for architects in the **early conceptual stages of design**. The goal is to empower architects with real-time, AI-assisted decision-making capabilities—bridging intuition with structural insight.
+For the past 6 months, I've been working with an interdisciplinary team to create a **structural prediction and generation tool** tailored for architects in the **early conceptual stages of design**. The goal is to empower architects with real-time, AI-assisted decision-making capabilities bridging intuition with structural insight.
 
 ## Why I Care
 
