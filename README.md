@@ -13,7 +13,8 @@ From scripting small automations to deploying AI-driven systems, Ive explored a 
 - HTML/CSS/JS for UI building and web automation  
 - Training and fine-tuning Neural Networks  
 - Inferencing with Large Language Models (LLMs)  
-- UI/UX design with a research-led approach  
+- UI/UX design with a research-led approach
+- Computational design and modelling   
 
 ## What I'm Building
 
