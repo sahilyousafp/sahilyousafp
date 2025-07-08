@@ -14,7 +14,16 @@ From scripting small automations to deploying AI-driven systems, Ive explored a 
 - Training and fine-tuning Neural Networks  
 - Inferencing with Large Language Models (LLMs)  
 - UI/UX design with a research-led approach
-- Computational design and modelling   
+- Computational design and modelling
+
+my_tech_toolkit:dict[str,List[str]] = {
+    "Languages": ["Python", "HTML/CSS/JS"],
+    "AI/ML": ["Computer Vision", "Machine Learning", "Deep Learning"],
+    "Web3": ["Node.js"],
+    "Cloud/DevOps": ["GCloud", "N8N"],
+    "3D/XR": ["Unity", "Three.js],
+    "Embedded": ["Arduino"],
+}
 
 ## What I'm Building
 
