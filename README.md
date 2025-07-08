@@ -16,14 +16,14 @@ From scripting small automations to deploying AI-driven systems, Ive explored a 
 - UI/UX design with a research-led approach
 - Computational design and modelling
 
-my_tech_toolkit:dict[str,List[str]] = {
+<pre>my_tech_toolkit:dict[str,List[str]] = {
     "Languages": ["Python", "HTML/CSS/JS"],
     "AI/ML": ["Computer Vision", "Machine Learning", "Deep Learning"],
     "Web3": ["Node.js"],
     "Cloud/DevOps": ["GCloud", "N8N"],
-    "3D/XR": ["Unity", "Three.js],
+    "3D/XR": ["Unity", "Three.js, "Rhino3d"],
     "Embedded": ["Arduino"],
-}
+}</pre>
 
 ## What I'm Building
 
