@@ -9,13 +9,6 @@ As an **Architect turned AI Developer**, my journey has been driven by a deep cu
 
 From scripting small automations to deploying AI-driven systems, Ive explored a range of technologies and disciplines that now define my toolkit:
 
-- Python scripting for automation and data manipulation  
-- HTML/CSS/JS for UI building and web automation  
-- Training and fine-tuning Neural Networks  
-- Inferencing with Large Language Models (LLMs)  
-- UI/UX design with a research-led approach
-- Computational design and modelling
-
 <pre>my_tech_toolkit:dict[str,List[str]] = {
     "Languages": ["Python", "HTML/CSS/JS"],
     "AI/ML": ["Computer Vision", "Machine Learning", "Deep Learning"],
@@ -24,6 +17,13 @@ From scripting small automations to deploying AI-driven systems, Ive explored a 
     "3D/XR": ["Unity", "Three.js, "Rhino3d"],
     "Embedded": ["Arduino"],
 }</pre>
+
+- Python scripting for automation and data manipulation  
+- HTML/CSS/JS for UI building and web automation  
+- Training and fine-tuning Neural Networks  
+- Inferencing with Large Language Models (LLMs)  
+- UI/UX design with a research-led approach
+- Computational design and modelling
 
 ## What I'm Building
 
