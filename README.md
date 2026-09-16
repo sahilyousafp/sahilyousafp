@@ -27,7 +27,7 @@ my_tech_toolkit: dict[str, list[str]] = {
 
 # What I'm Building
 
-For the past 6 months, I've been working with an interdisciplinary team to create a **structural prediction and generation tool** tailored for architects in the **early conceptual stages of design**. [...]
+Currently working with the **Vantage** team in Sai Srushti Group to automate proptech workflow. [...]
 
 # Why I Care
 
@@ -43,7 +43,7 @@ Here are a few projects that reflect my vision and capabilities:
 2. [**Grounded. Structural Solutions**](https://github.com/sahilyousafp/Grounded.-Structural-Solutions.git)  
    A smart system that predicts and proposes structural frameworks from early architectural geometries using AI-based analysis and simulation.
 
-3. **Urban LLM-based Agents**  
+3. [**Urban LLM-based Agents**](https://github.com/sahilyousafp/LLM-based-UrbanABM.git) 
    A suite of urban-focused LLM agents that assist with zoning analysis, site planning, accessibility checks, and context-aware design recommendations. These agents integrate geospatial data, regulatory knowledge, and design heuristics to support early-stage urban and neighborhood-scale decision-making.
 
 # Let's Connect
